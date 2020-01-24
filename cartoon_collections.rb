@@ -10,8 +10,9 @@ def summon_captain_planet(veggies)
 end
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_calls(long_planeteer_calls)
+  answer = false
+  long_planeteer_calls.each_char { ||  }
 end
 
 def find_the_cheese# code an argument here
